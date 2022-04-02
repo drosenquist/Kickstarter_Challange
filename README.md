@@ -10,10 +10,11 @@ The purpose of this project was to analyze different Kickstarter fundraising cam
 # Analysis and Challenges
 
 ## Analysis
-To compare campaign outcomes, a pivot table was created and filtered to view information for theater Kickstart campaigns. A line graph was created using the pivot table, shown below.
 
 ### Outcomes Based on Launch Date
 The analysis showed that May had the greatest number of successful campaigns with 111 followed by June, July, and August with 100, 87, and 72 successful campaigns, respectively. April and August had nearly the same number of successful campaigns, 71 versus 72, respectively. The number of failed campaigns were nearly the same each month during the May through August period, averaging 50 (rounded) per month compared to 92 (rounded) on average successful campaigns each month.
+
+To compare campaign outcomes, a pivot table was created and filtered to view information for theater Kickstart campaigns. A line graph was created using the pivot table (shown below).
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/101379969/161399565-090e9aaa-f1c3-4783-8156-630f3abef559.png)
 
 ### Outcomes Based on Goals
