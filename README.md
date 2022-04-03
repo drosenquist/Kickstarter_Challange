@@ -18,9 +18,9 @@ To compare campaign outcomes, a pivot table was created and filtered to view inf
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/101379969/161399565-090e9aaa-f1c3-4783-8156-630f3abef559.png)
 
 ### Outcomes Based on Goals
-The Kickstarter goals were broken down in 12 ranges. The COUNTIFS function was used to count the number of campaigns that had fundraising goals within the ranges. Then, the percentage of successful, failed, and canceled campaigns were calculated for each of the ranges.
+The Kickstarter fundraising goals were broken down in 12 ranges. The COUNTIFS function was used to count the number of campaigns that had fundraising goals within the ranges. Then, the percentage of successful, failed, and canceled campaigns were calculated for each of the ranges.
 
-Out of the 1046 theater campaigns analyzed, those that had fundraising goals less than $4999 had the greatest percentage of successful campaigns, 74% on average.  50% to 80% of campaigns that had a fundraising goal between $15,000 and $34,999 failed.
+Out of the 1046 theater campaigns analyzed, those that had fundraising goals less than $4999 had the greatest percentage of successful campaigns, 74% on average.  50% to 80% of campaigns that had a fundraising goal between $15,000 and $34,999 failed. See graph below.
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/101379969/161399726-f8cdf24a-e0b9-4fe8-b1f0-bff3ecc21a10.png)
 
 
